@@ -3,6 +3,23 @@ Survey_Kagawa＿PubComment
 
 * 今のところ、pngは450dpiで取り出している。  
 
+# Download
+* 反対
+https://github.com/GinSanaduki/Survey_Kagawa_PubComment/releases/download/PNG_1.0.0/hantai.7z  
+
+* 事業者
+https://github.com/GinSanaduki/Survey_Kagawa_PubComment/releases/download/PNG_1.0.0/jigyosha.7z  
+
+* 賛成
+https://github.com/GinSanaduki/Survey_Kagawa_PubComment/releases/download/PNG_1.0.0/sansei_01.7z  
+
+https://github.com/GinSanaduki/Survey_Kagawa_PubComment/releases/download/PNG_1.0.0/sansei_02.7z  
+
+* 提言
+https://github.com/GinSanaduki/Survey_Kagawa_PubComment/releases/download/PNG_1.0.0/teigen.7z  
+
+
+
 
 これを、popplerでpngとして取り出す。  
 なにしろ、4000枚なので、整理が大変なので、PDFのファイル名で制御する。  
