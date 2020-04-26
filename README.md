@@ -1,2 +1,2 @@
-# Survey_Kagawa-PubComment
+# Survey_Kagawa_PubComment
 Survey_Kagawa＿PubComment
